@@ -1,16 +1,30 @@
-## Hi there 👋
+# Bonjour & Bienvenue !
 
-<!--
-**L-Chaplin/L-Chaplin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vous êtes désormais sur ma page GitHub, en espérant que mon CV et mon expérience vous plaise !
 
-Here are some ideas to get you started:
+## Mes compétences :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je possède divers compétences dans différents domaines.
+
+#### *Langages de programmation*
+
+- Python
+- C/C++
+
+#### *Logiciels & Protocoles*
+
+- Visual Studio Code
+- Arduino
+- Profilab
+- Git
+
+#### *Compétences théoriques*
+
+- Logique combinatoire
+- Numération base 2 & 16
+- Bus de communication
+
+#### *Maîtrises diverses*
+
+- Programmation de bras robotisé Braccio
+- Montage électronique/Hardware
