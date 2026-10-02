@@ -23,7 +23,7 @@ Je possède divers compétences dans différents domaines.
 
 #### *Logiciels & Protocoles*
 
-| VS Code | Arduino | JavaScript |
+| VS Code | Arduino | Profilab | Git |
 | :--- | :--- | :--- |
 
 #### *Compétences théoriques*
