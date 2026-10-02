@@ -10,6 +10,7 @@ Vous êtes désormais sur ma page GitHub, en espérant que mon CV et mon expéri
 ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=L-Chaplin&theme=ayu&metric=commits&color=AB5007)
 ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=L-Chaplin&theme=ayu&color=AB5007)
 
+
 ## Mes compétences :
 
 Je possède divers compétences dans différents domaines.
@@ -18,6 +19,7 @@ Je possède divers compétences dans différents domaines.
 
 - Python
 - C/C++
+- Java Script (un peu)(mais vraiment pas beaucoup)
 
 #### *Logiciels & Protocoles*
 
@@ -29,10 +31,17 @@ Je possède divers compétences dans différents domaines.
 #### *Compétences théoriques*
 
 - Logique combinatoire
-- Numération base 2 & 16
+- Numération (base 2 & 16)
 - Bus de communication
 
 #### *Maîtrises diverses*
 
 - Programmation de bras robotisé Braccio
 - Montage électronique/Hardware
+
+
+## Ambitions :
+
+- Pouvoir se faire un setup pas horrible d'ici 2100 (j'ai pas l'argent)
+- Ne pas sombrer dans la folie (peu probable)
+- Vivre jusqu'à demain (je promets rien)
