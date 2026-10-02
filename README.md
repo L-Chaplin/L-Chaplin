@@ -1,4 +1,4 @@
-# Bonjour & Bienvenue !
+# <div align="center">Bonjour & Bienvenue !</div>
 
 Vous êtes désormais sur ma page GitHub, en espérant que mon CV et mon expérience vous plaise !
 
@@ -11,22 +11,20 @@ Vous êtes désormais sur ma page GitHub, en espérant que mon CV et mon expéri
 ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=L-Chaplin&theme=ayu&color=AB5007)
 
 
-## Mes compétences :
+## <div align="center">Mes compétences :</div>
 
 Je possède divers compétences dans différents domaines.
 
 #### *Langages de programmation*
 
-- Python
-- C/C++
-- Java Script (un peu)(mais vraiment pas beaucoup)
+
+| Python | C/C++ | JavaScript |
+| :--- | :--- | :--- |
 
 #### *Logiciels & Protocoles*
 
-- Visual Studio Code
-- Arduino
-- Profilab
-- Git
+| VS Code | Arduino | JavaScript |
+| :--- | :--- | :--- |
 
 #### *Compétences théoriques*
 
@@ -38,10 +36,3 @@ Je possède divers compétences dans différents domaines.
 
 - Programmation de bras robotisé Braccio
 - Montage électronique/Hardware
-
-
-## Ambitions :
-
-- Pouvoir se faire un setup pas horrible d'ici 2100 (j'ai pas l'argent)
-- Ne pas sombrer dans la folie (peu probable)
-- Vivre jusqu'à demain (je promets rien)
