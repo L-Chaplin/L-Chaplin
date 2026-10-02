@@ -1,8 +1,6 @@
-# <span style="color: #C99B02;">Bonjour & Bienvenue !</span>
+# Bonjour & Bienvenue !
 
-<span style="color: #D6D90B;">
 Vous êtes désormais sur ma page GitHub, en espérant que mon CV et mon expérience vous plaise !
-</span>
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=L-Chaplin&theme=ayu&hide_title=true&border_radius=10)
 
@@ -13,39 +11,29 @@ Vous êtes désormais sur ma page GitHub, en espérant que mon CV et mon expéri
 ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=L-Chaplin&theme=ayu&metric=commits&color=AB5007)
 ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=L-Chaplin&theme=ayu&color=AB5007)
 
-## <span style="color: #FF8F40;">Mes compétences :</span>
+## Mes compétences :
 
-<span style="color: #D6D90B;">
 Je possède divers compétences dans différents domaines.
-</span>
 
-#### <span style="color: #AAD94C;">*Langages de programmation*</span>
+#### *Langages de programmation*
 
-<span style="color: #D6D90B;">
 - Python
 - C/C++
-</span>
 
-#### <span style="color: #AAD94C;">*Logiciels & Protocoles*</span>
+#### *Logiciels & Protocoles*
 
-<span style="color: #D6D90B;">
 - Visual Studio Code
 - Arduino
 - Profilab
 - Git
-</span>
 
-#### <span style="color: #AAD94C;">*Compétences théoriques*</span>
+#### *Compétences théoriques*
 
-<span style="color: #D6D90B;">
 - Logique combinatoire
 - Numération base 2 & 16
 - Bus de communication
-</span>
 
-#### <span style="color: #AAD94C;">*Maîtrises diverses*</span>
+#### *Maîtrises diverses*
 
-<span style="color: #D6D90B;">
 - Programmation de bras robotisé Braccio
 - Montage électronique/Hardware
-</span>
